@@ -2,7 +2,7 @@
   "name": "jewel-tone-dark",
   "displayName": "Jewel Tone Dark",
   "description": "Jewel Tone Theme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "Angelxoxo757",
   "engines": {
     "vscode": "^1.72.0"
