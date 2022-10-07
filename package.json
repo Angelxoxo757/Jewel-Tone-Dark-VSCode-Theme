@@ -1,0 +1,32 @@
+{
+  "name": "jewel-tone-dark",
+  "displayName": "Jewel Tone Dark",
+  "description": "Jewel Tone Theme",
+  "version": "0.0.1",
+  "publisher": "Angelxoxo757",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "jewel tone",
+    "dark",
+    "theme",
+    "vscode"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angelxoxo757/Jewel-Tone-Dark-VSCode-Theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Jewel Tone Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Jewel Tone Dark-color-theme.json"
+      }
+    ]
+  }
+}
