@@ -5,5 +5,5 @@ Hello my name is Maria Cromety, I decided to make my own visual studio code them
 Here are screenshots of what the theme is going to look like in your editor!
 
 ![N6EV6wfG-default jpeg](https://user-images.githubusercontent.com/112197120/194678715-ecc20cbe-2915-4280-a6a2-85f15ae28ee6.png)
-![N6EV6wfG-commandPalette jpeg](https://user-images.githubusercontent.com/112197120/194675476-0eca4a4f-8a97-443a-a74d-846f83630191.png)
+![N6EV6wfG-commandPalette jpeg](https://user-images.githubusercontent.com/112197120/194681351-5205ff7c-8910-42b3-b7b0-1e2c4beba0d8.png)
 ![N6EV6wfG-panelTerminal jpeg](https://user-images.githubusercontent.com/112197120/194675491-ca1efe35-3993-4392-8f77-567d9d87ed38.png)
